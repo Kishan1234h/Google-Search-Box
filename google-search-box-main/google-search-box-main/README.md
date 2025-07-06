@@ -32,13 +32,13 @@ To run **google-search-box** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/geeky-prashant/google-search-box.git
+sudo git clone https://github.com/kishan1234h/google-search-box.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/geeky-prashant/google-search-box.git
+git clone https://github.com/kishan1234h/google-search-box.git
 ```
 
 ### Contact
